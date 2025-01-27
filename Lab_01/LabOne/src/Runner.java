@@ -5,6 +5,8 @@ public class Runner {
 		//QuestionOne.partOne();	//SELECT all FROM table - Statement
 		//QuestionOne.partTwo();	//SELECT FROM WHERE - PreparedStatement
 		
+		QuestionTwo.partOne();		//SELECT all FROM JOINED table - Statement
+		
 		
 	}
 	
